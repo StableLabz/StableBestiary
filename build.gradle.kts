@@ -31,7 +31,7 @@ dependencies {
     compileOnly("dev.aurelium:auraskills-api-bukkit:2.3.0")
     compileOnly("dev.aurelium:slate:1.1.13")
 
-    compileOnly("com.zaxxer:HikariCP:6.3.0")
+    compileOnly("com.zaxxer:HikariCP:6.3.2")
     compileOnly("com.h2database:h2:2.3.232")
     compileOnly("org.mariadb.jdbc:mariadb-java-client:3.5.3")
 }
